@@ -1,0 +1,15 @@
+.container {
+    margin: 20px 0;
+}
+.container button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+img{
+    max-width: 100%;
+     height: auto;
+}
+h1{
+    margin-left: 750px;
+}
